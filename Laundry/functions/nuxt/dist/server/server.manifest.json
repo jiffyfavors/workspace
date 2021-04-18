@@ -1,0 +1,21 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/account.js": "pages/account.js",
+    "pages/biller/_id/index.js": "pages/biller/_id/index.js",
+    "pages/bills_payment.js": "pages/bills_payment.js",
+    "pages/bookings.js": "pages/bookings.js",
+    "pages/cart.js": "pages/cart.js",
+    "pages/food.js": "pages/food.js",
+    "pages/index.js": "pages/index.js",
+    "pages/ordering/_id/index.js": "pages/ordering/_id/index.js",
+    "pages/resto/_id/index.js": "pages/resto/_id/index.js",
+    "pages/resto/_id/untitled_backup.js": "pages/resto/_id/untitled_backup.js",
+    "pages/rides.js": "pages/rides.js",
+    "pages/shop/_id/index.js": "pages/shop/_id/index.js",
+    "pages/shopping.js": "pages/shopping.js",
+    "pages/transactions.js": "pages/transactions.js",
+    "server.js": "server.js"
+  },
+  "maps": {}
+}

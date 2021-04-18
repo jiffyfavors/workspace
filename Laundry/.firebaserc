@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "laundry-93534"
+  },
+  "targets": {
+    "laundry-93534": {
+      "hosting": {
+        "merchant": [
+          "go-asenso-merch"
+        ],
+        "client": [
+          "laundry-93534"
+        ]
+      }
+    }
+  }
+}

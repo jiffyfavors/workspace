@@ -1,0 +1,158 @@
+{
+  "AppointmentCard": {
+    "description": "Auto imported from components/AppointmentCard.vue"
+  },
+  "LazyAppointmentCard": {
+    "description": "Auto imported from components/AppointmentCard.vue"
+  },
+  "CartDiag": {
+    "description": "Auto imported from components/CartDiag.vue"
+  },
+  "LazyCartDiag": {
+    "description": "Auto imported from components/CartDiag.vue"
+  },
+  "CheckoutDiag": {
+    "description": "Auto imported from components/CheckoutDiag.vue"
+  },
+  "LazyCheckoutDiag": {
+    "description": "Auto imported from components/CheckoutDiag.vue"
+  },
+  "CreateStore": {
+    "description": "Auto imported from components/CreateStore.vue"
+  },
+  "LazyCreateStore": {
+    "description": "Auto imported from components/CreateStore.vue"
+  },
+  "FireUi": {
+    "description": "Auto imported from components/FireUi.vue"
+  },
+  "LazyFireUi": {
+    "description": "Auto imported from components/FireUi.vue"
+  },
+  "FoodCard": {
+    "description": "Auto imported from components/FoodCard.vue"
+  },
+  "LazyFoodCard": {
+    "description": "Auto imported from components/FoodCard.vue"
+  },
+  "InstalledApp": {
+    "description": "Auto imported from components/InstalledApp.vue"
+  },
+  "LazyInstalledApp": {
+    "description": "Auto imported from components/InstalledApp.vue"
+  },
+  "Invoice": {
+    "description": "Auto imported from components/Invoice.vue"
+  },
+  "LazyInvoice": {
+    "description": "Auto imported from components/Invoice.vue"
+  },
+  "Loading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "LazyLoading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "LoginCard": {
+    "description": "Auto imported from components/LoginCard.vue"
+  },
+  "LazyLoginCard": {
+    "description": "Auto imported from components/LoginCard.vue"
+  },
+  "MerchantList": {
+    "description": "Auto imported from components/MerchantList.vue"
+  },
+  "LazyMerchantList": {
+    "description": "Auto imported from components/MerchantList.vue"
+  },
+  "MyApps": {
+    "description": "Auto imported from components/MyApps.vue"
+  },
+  "LazyMyApps": {
+    "description": "Auto imported from components/MyApps.vue"
+  },
+  "Nav": {
+    "description": "Auto imported from components/Nav.vue"
+  },
+  "LazyNav": {
+    "description": "Auto imported from components/Nav.vue"
+  },
+  "OrderCard": {
+    "description": "Auto imported from components/OrderCard.vue"
+  },
+  "LazyOrderCard": {
+    "description": "Auto imported from components/OrderCard.vue"
+  },
+  "OrderStatus": {
+    "description": "Auto imported from components/OrderStatus.vue"
+  },
+  "LazyOrderStatus": {
+    "description": "Auto imported from components/OrderStatus.vue"
+  },
+  "OrderSummary": {
+    "description": "Auto imported from components/OrderSummary.vue"
+  },
+  "LazyOrderSummary": {
+    "description": "Auto imported from components/OrderSummary.vue"
+  },
+  "Permission": {
+    "description": "Auto imported from components/Permission.vue"
+  },
+  "LazyPermission": {
+    "description": "Auto imported from components/Permission.vue"
+  },
+  "RegisterCard": {
+    "description": "Auto imported from components/RegisterCard.vue"
+  },
+  "LazyRegisterCard": {
+    "description": "Auto imported from components/RegisterCard.vue"
+  },
+  "RestoCard": {
+    "description": "Auto imported from components/RestoCard.vue"
+  },
+  "LazyRestoCard": {
+    "description": "Auto imported from components/RestoCard.vue"
+  },
+  "ServiceCard": {
+    "description": "Auto imported from components/ServiceCard.vue"
+  },
+  "LazyServiceCard": {
+    "description": "Auto imported from components/ServiceCard.vue"
+  },
+  "StartPromo": {
+    "description": "Auto imported from components/StartPromo.vue"
+  },
+  "LazyStartPromo": {
+    "description": "Auto imported from components/StartPromo.vue"
+  },
+  "StoreCard": {
+    "description": "Auto imported from components/StoreCard.vue"
+  },
+  "LazyStoreCard": {
+    "description": "Auto imported from components/StoreCard.vue"
+  },
+  "Subscription": {
+    "description": "Auto imported from components/Subscription.vue"
+  },
+  "LazySubscription": {
+    "description": "Auto imported from components/Subscription.vue"
+  },
+  "TokenStatus": {
+    "description": "Auto imported from components/TokenStatus.vue"
+  },
+  "LazyTokenStatus": {
+    "description": "Auto imported from components/TokenStatus.vue"
+  },
+  "AppCard": {
+    "description": "Auto imported from components/AppCenter/AppCard.vue"
+  },
+  "LazyAppCard": {
+    "description": "Auto imported from components/AppCenter/AppCard.vue"
+  },
+  "AppListing": {
+    "description": "Auto imported from components/AppCenter/AppListing.vue"
+  },
+  "LazyAppListing": {
+    "description": "Auto imported from components/AppCenter/AppListing.vue"
+  }
+}

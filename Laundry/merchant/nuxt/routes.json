@@ -1,0 +1,107 @@
+[
+  {
+    "name": "appcenter",
+    "path": "/appcenter",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/appcenter.vue",
+    "chunkName": "pages/appcenter",
+    "_name": "_6b13f2a8"
+  },
+  {
+    "name": "bookings",
+    "path": "/bookings",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/bookings.vue",
+    "chunkName": "pages/bookings",
+    "_name": "_29f75438"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_44d623db"
+  },
+  {
+    "name": "orders",
+    "path": "/orders",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/orders.vue",
+    "chunkName": "pages/orders",
+    "_name": "_224af03a"
+  },
+  {
+    "name": "staff",
+    "path": "/staff",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/staff.vue",
+    "chunkName": "pages/staff",
+    "_name": "_172663d2"
+  },
+  {
+    "name": "stores",
+    "path": "/stores",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/stores.vue",
+    "chunkName": "pages/stores",
+    "_name": "_0e8fcba0"
+  },
+  {
+    "name": "subscriptions",
+    "path": "/subscriptions",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/subscriptions.vue",
+    "chunkName": "pages/subscriptions",
+    "_name": "_43d376e8"
+  },
+  {
+    "name": "voucher",
+    "path": "/voucher",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/voucher.vue",
+    "chunkName": "pages/voucher",
+    "_name": "_055f6a20"
+  },
+  {
+    "name": "menu-id",
+    "path": "/menu/:id",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/menu/_id/index.vue",
+    "chunkName": "pages/menu/_id/index",
+    "_name": "_39f832ea"
+  },
+  {
+    "name": "apps-type-id",
+    "path": "/apps/:type?/:id",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/apps/_type/_id/index.vue",
+    "chunkName": "pages/apps/_type/_id/index",
+    "_name": "_7c4b0028"
+  },
+  {
+    "name": "apps-type-id-menu",
+    "path": "/apps/:type?/:id?/menu",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/apps/_type/_id/menu.vue",
+    "chunkName": "pages/apps/_type/_id/menu",
+    "_name": "_3cfb1a0e"
+  },
+  {
+    "name": "apps-type-id-orders",
+    "path": "/apps/:type?/:id?/orders",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/apps/_type/_id/orders.vue",
+    "chunkName": "pages/apps/_type/_id/orders",
+    "_name": "_114df4ff"
+  },
+  {
+    "name": "apps-type-id-pos",
+    "path": "/apps/:type?/:id?/pos",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/apps/_type/_id/pos.vue",
+    "chunkName": "pages/apps/_type/_id/pos",
+    "_name": "_09c5502a"
+  },
+  {
+    "name": "apps-type-id-setup",
+    "path": "/apps/:type?/:id?/setup",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/apps/_type/_id/setup.vue",
+    "chunkName": "pages/apps/_type/_id/setup",
+    "_name": "_094d4453"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/akocberting/Desktop/Laundry/merchant/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7b2e80c4"
+  }
+]

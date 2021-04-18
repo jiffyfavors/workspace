@@ -1,0 +1,100 @@
+[
+  {
+    "name": "account",
+    "path": "/account",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/account.vue",
+    "chunkName": "pages/account",
+    "_name": "_89640f3c"
+  },
+  {
+    "name": "bills_payment",
+    "path": "/bills_payment",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/bills_payment.vue",
+    "chunkName": "pages/bills_payment",
+    "_name": "_0a4928f0"
+  },
+  {
+    "name": "bookings",
+    "path": "/bookings",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/bookings.vue",
+    "chunkName": "pages/bookings",
+    "_name": "_3bad9b56"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/cart.vue",
+    "chunkName": "pages/cart",
+    "_name": "_72e680bb"
+  },
+  {
+    "name": "food",
+    "path": "/food",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/food.vue",
+    "chunkName": "pages/food",
+    "_name": "_edbd7a0e"
+  },
+  {
+    "name": "rides",
+    "path": "/rides",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/rides.vue",
+    "chunkName": "pages/rides",
+    "_name": "_431d9e20"
+  },
+  {
+    "name": "shopping",
+    "path": "/shopping",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/shopping.vue",
+    "chunkName": "pages/shopping",
+    "_name": "_11fc5983"
+  },
+  {
+    "name": "transactions",
+    "path": "/transactions",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/transactions.vue",
+    "chunkName": "pages/transactions",
+    "_name": "_8bc08d20"
+  },
+  {
+    "name": "biller-id",
+    "path": "/biller/:id",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/biller/_id/index.vue",
+    "chunkName": "pages/biller/_id/index",
+    "_name": "_1b8082fd"
+  },
+  {
+    "name": "ordering-id",
+    "path": "/ordering/:id",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/ordering/_id/index.vue",
+    "chunkName": "pages/ordering/_id/index",
+    "_name": "_6ddd7dc6"
+  },
+  {
+    "name": "resto-id",
+    "path": "/resto/:id",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/resto/_id/index.vue",
+    "chunkName": "pages/resto/_id/index",
+    "_name": "_61103d7e"
+  },
+  {
+    "name": "shop-id",
+    "path": "/shop/:id",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/shop/_id/index.vue",
+    "chunkName": "pages/shop/_id/index",
+    "_name": "_459dac3f"
+  },
+  {
+    "name": "resto-id-untitled_backup",
+    "path": "/resto/:id?/untitled_backup",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/resto/_id/untitled_backup.vue",
+    "chunkName": "pages/resto/_id/untitled_backup",
+    "_name": "_f26c25f0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/akocberting/Desktop/Laundry/client/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a094c072"
+  }
+]
